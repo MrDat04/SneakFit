@@ -18,7 +18,7 @@ const Evaluate = () => {
         return (
           <div>
             <p>
-              Chính sách đổi trả: Đổi trả miễn phí trong 7 ngày kể từ khi nhận
+              Chính sách đổi trả: Đổi trả miễn phí trong 7 ngày kể từ khi nhậnn
               hàng nếu phát hiện lỗi từ nhà sản xuất.
             </p>
           </div>
